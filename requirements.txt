@@ -18,3 +18,7 @@ torch==2.2.0
 torchvision==0.17.0
 python-dotenv      # <-- add this line
 
+Flask-PyMongo
+flask-login
+Flask-Mail
+Flask-SocketIO
